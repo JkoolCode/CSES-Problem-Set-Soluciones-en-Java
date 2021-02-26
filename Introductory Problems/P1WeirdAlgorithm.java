@@ -18,21 +18,22 @@ public class P1WeirdAlgorithm {
         OutputStream outputStream = System.out;
         InputReader in = new InputReader(inputStream);
         PrintWriter out = new PrintWriter(outputStream);
-        
+        solve(1, in, out);
+        out.close();
+    }
+
+    static void solve(int testCases, InputReader in, PrintWriter out){
         long n = in.nextInt();
         out.print(n + " ");
-        
         while(n > 1){
             if(n % 2 == 0)
                 n /= 2;
             else
                 n = n * 3 + 1;    
             out.print(n + " ");        
-        }
-        
-        out.close();
+        }    
     }
-
+    
     static class InputReader {
         public BufferedReader reader;
         public StringTokenizer tokenizer;
