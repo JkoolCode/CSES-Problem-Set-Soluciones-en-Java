@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 /**
  * @author Junior Oblitas
  * Link Problema: https://cses.fi/problemset/task/1068
- * Link Video Solución: 
+ * Link Video Solución: [AQUI PONDRE EL LINK DEL VIDEO EXPLICATIVO]
  */
 public class P1WeirdAlgorithm {
 
