@@ -5,6 +5,7 @@ La finalidad de este repositorio es compartir las ideas, soluciones y explicacio
 de CSES Problem set con su respectiva solución en Español, para el publico del habla hispana.
 
 **Video 01, Weird Algorithm - Solución en Java [Español]:**
+
 https://youtu.be/zzysMC78Iu0
 
 :shipit: Programación Jkool Code :+1:
