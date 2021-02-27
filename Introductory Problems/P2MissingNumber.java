@@ -23,12 +23,12 @@ public class P2MissingNumber {
     }
 
     static void solve(int testCases, InputReader in, PrintWriter out){
-        int n, x;
+        long n, x;
         long sum = 0, ope = 0;
         
-        n = in.nextInt();
+        n = in.nextLong();
         for(int i=0; i < n-1; i++){
-            x = in.nextInt();
+            x = in.nextLong();
             sum += x;
         }
         ope = n * (n + 1) / 2;
