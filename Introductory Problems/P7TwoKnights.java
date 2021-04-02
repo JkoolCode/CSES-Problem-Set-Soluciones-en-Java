@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 import java.util.StringTokenizer;
 
 /**
- * @author Junior Oblitas (JkoolCode)
+ * @author Junior Oblitas (JkoolCode*)
  * Link Problema: https://cses.fi/problemset/task/1072
  * Link Video Solución: 
  */
